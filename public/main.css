@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+div{
+    border:2px solid #00C2BA;
+    height: 600px;
+    width: 30%px;
+}
+
+button{
+    color: #00C2BA;
+    background-color: transparent;
+    height: 30px;
+    font-family: sans-serif;
+    border-color: #00C2BA;
+    border-radius: 10px;
+    letter-spacing: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0;
+    transition: 2s;
+    font-family: 'Courier New', Courier, monospace;
+}
